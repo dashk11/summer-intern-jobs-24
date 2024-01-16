@@ -1,4 +1,4 @@
-Find internships in the USA effortlessly. Get daily job postings and make it easier to track jobs in one place.
+
 
 
 | role                                                                                                                        | organization                                          | location                                   | applicants       | url                                                                                                                                                                                                                                                                                                                                                                                                                                               | date                |
